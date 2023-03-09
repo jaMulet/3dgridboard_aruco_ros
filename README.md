@@ -91,8 +91,7 @@ C++ package and ROS wrappers of the [3d gridboard aruco][1] detector. This repos
 This work has been developed in the context of the H2020-MSCA-ITN DiManD project funded by the European Union’s Horizon
 2020 research and innovation programme under grant agreement no.814078.
 
-<img align="right" src="https://raw.github.com/jaMulet/3dgridboard_aruco_ros/master/3dgridboard_aruco_ros/images/dimand_MSCA-ITN.png"/>
-
+<img align="center" src="https://raw.githubusercontent.com/jaMulet/3dgridboard_aruco_ros/master/images/dimand_MSCA-ITN.png"/>
 
 [1]: https://doi.org/10.3390/s20174825 "Oščádal P, Heczko D, Vysocký A, Mlotek J, Novák P, Virgala I, Sukop M, Bobovský Z. Improved Pose Estimation of Aruco Tags Using a Novel 3D Placement Strategy. Sensors. 2020; 20(17):4825"
 
