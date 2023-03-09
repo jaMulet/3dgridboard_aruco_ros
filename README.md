@@ -1,4 +1,4 @@
-3d grid aruco for ros
+3d gridboard aruco for ros
 =========
 
 C++ package and ROS wrappers of the [3d gridboard aruco][1] detector. This repository is based on the [aruco_ros][2] library.
