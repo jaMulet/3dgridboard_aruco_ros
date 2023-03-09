@@ -86,9 +86,9 @@ C++ package and ROS wrappers of the [3d gridboard aruco][1] detector. This repos
         Header header
         geometry_msgs/TransformStamped[] transforms
 
-# Ackownledge
+# Ackownledgement
 
-This work has been developed in the context of the H2020-MSCA-ITN DiManD project funded by the European Union’s Horizon
+This work has been developed in the context of the H2020-MSCA-ITN [DiManD project][3] funded by the European Union’s Horizon
 2020 research and innovation programme under grant agreement no.814078.
 
 <img align="center" src="https://raw.githubusercontent.com/jaMulet/3dgridboard_aruco_ros/master/images/dimand_MSCA-ITN.png"/>
@@ -96,3 +96,5 @@ This work has been developed in the context of the H2020-MSCA-ITN DiManD project
 [1]: https://doi.org/10.3390/s20174825 "Oščádal P, Heczko D, Vysocký A, Mlotek J, Novák P, Virgala I, Sukop M, Bobovský Z. Improved Pose Estimation of Aruco Tags Using a Novel 3D Placement Strategy. Sensors. 2020; 20(17):4825"
 
 [2]: http://wiki.ros.org/aruco_ros "Aruco_ros"
+
+[3]: https://dimanditn.eu/es/the-project "DiManD project"
